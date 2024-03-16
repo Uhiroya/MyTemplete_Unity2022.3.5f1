@@ -18,7 +18,7 @@ public class LibraryTest : MonoBehaviour
             .Subscribe(_ => Debug.Log("success"))
             .AddTo(this);
         await UniTask.Delay(1000);
-        transform.DOMove(Vector3.forward * 100f ,5f);
+        await transform.DOMove(Vector3.forward * 100f ,5f);
     }
 
     // Update is called once per frame
