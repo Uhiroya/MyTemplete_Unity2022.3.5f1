@@ -42,7 +42,7 @@ https://blog.unity.com/ja/engine-platform/clean-up-your-code-how-to-create-your-
 
 ## 開発環境  
 
-Unity 2022.2.5.f1
+Unity 2022.3.5f1
 
 ## 導入ライブラリ
 
